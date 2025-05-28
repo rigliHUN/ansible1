@@ -1,2 +1,3 @@
 # ansible1
-This is for an ansible course!
+
+This is my awesome Ansible repository!
